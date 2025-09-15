@@ -1,1 +1,9 @@
-AI Journal Entry
+AI Journal Entries 
+Fareedah Bakare
+fbakare@terpmail.umd.edu
+Section 0201
+
+Week 1
+09/14/2025
+This week I used AI, Chatgpt specifically, to review basic python concepts. I asked my AI chat if I was supposed to put my string in quotation marks when creating a variable because I couldn't remember whether or not I needed them. Then, I asked for chat to show me how to structure a f-string. 
+When I got to exercise #6, I asked my AI chat to explain the instructions of what I was suppposed to code. Here is my AI chat link : https://chatgpt.com/c/68c76c1b-0788-832d-9994-7a0f6215c409 
