@@ -7,3 +7,8 @@ Week 1
 09/14/2025
 This week I used AI, Chatgpt specifically, to review basic python concepts. I asked my AI chat if I was supposed to put my string in quotation marks when creating a variable because I couldn't remember whether or not I needed them. Then, I asked for chat to show me how to structure a f-string. 
 When I got to exercise #6, I asked my AI chat to explain the instructions of what I was suppposed to code. Here is my AI chat link : https://chatgpt.com/c/68c76c1b-0788-832d-9994-7a0f6215c409 
+
+Week 2
+9/19/2025
+This week I used ChatGPT to explain some python concepts that were new to me. I have never seen the reverse or sort command before this exercise. I was able to read about the commands and then use what I had read to complete my code. I also asked for Chat to explain the difference betweena For and While loop because I sometimes get their usefullness mixed up. 
+https://chatgpt.com/c/68d1e619-dc64-8331-acb0-ccef07b9cecf 
