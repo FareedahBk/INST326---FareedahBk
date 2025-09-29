@@ -12,3 +12,8 @@ Week 2
 9/19/2025
 This week I used ChatGPT to explain some python concepts that were new to me. I have never seen the reverse or sort command before this exercise. I was able to read about the commands and then use what I had read to complete my code. I also asked for Chat to explain the difference betweena For and While loop because I sometimes get their usefullness mixed up. 
 https://chatgpt.com/c/68d1e619-dc64-8331-acb0-ccef07b9cecf 
+
+Week 3
+9/28/2025
+This week I used ChatGPT to clarify certain terms in the assignment instructions. I wanted to know the difference between "case_sensitive = True" and "case_sensitive = False". After reading ChatGPT's explanation, I understood what I was supposed to do. I've notice that in order to fulfill these requiremnts , I just need to break down the instructions for my understanding. Then, I used ChatGPT to help me find the error in my code. 
+https://chatgpt.com/c/68d9bb81-406c-8329-9ccb-e78bf1514164 
