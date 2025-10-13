@@ -17,3 +17,8 @@ Week 3
 9/28/2025
 This week I used ChatGPT to clarify certain terms in the assignment instructions. I wanted to know the difference between "case_sensitive = True" and "case_sensitive = False". After reading ChatGPT's explanation, I understood what I was supposed to do. I've notice that in order to fulfill these requiremnts , I just need to break down the instructions for my understanding. Then, I used ChatGPT to help me find the error in my code. 
 https://chatgpt.com/c/68d9bb81-406c-8329-9ccb-e78bf1514164 
+
+
+Week 5
+10/12/2025
+This week I used AI as a helping hand in understanding feautres in python. I've briefly used isinstance() before and I wanted to see how I could implment it to get the result that I needed which was a string value only. Then I asked chatgpt to tell me the difference between a single underscore and double underscores in encapuslation. Finally, when I am typing code, I tend to overlook the small things. My code would not run properly due to a typo that AI pointed out for me.  https://chatgpt.com/c/68ec159c-5710-832c-bad0-943e8e9c30dd
