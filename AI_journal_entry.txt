@@ -22,3 +22,7 @@ https://chatgpt.com/c/68d9bb81-406c-8329-9ccb-e78bf1514164
 Week 5
 10/12/2025
 This week I used AI as a helping hand in understanding feautres in python. I've briefly used isinstance() before and I wanted to see how I could implment it to get the result that I needed which was a string value only. Then I asked chatgpt to tell me the difference between a single underscore and double underscores in encapuslation. Finally, when I am typing code, I tend to overlook the small things. My code would not run properly due to a typo that AI pointed out for me.  https://chatgpt.com/c/68ec159c-5710-832c-bad0-943e8e9c30dd
+
+Week 6
+10/28/2025
+This week I used AI to further explain how to set an objects initial state with "__init__". I also used AI to check my code and provide any corrections. https://chatgpt.com/c/69011155-6ffc-8321-8406-c85a0a14b0a8
