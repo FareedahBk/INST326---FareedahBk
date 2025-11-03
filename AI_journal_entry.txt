@@ -26,3 +26,7 @@ This week I used AI as a helping hand in understanding feautres in python. I've 
 Week 6
 10/28/2025
 This week I used AI to further explain how to set an objects initial state with "__init__". I also used AI to check my code and provide any corrections. https://chatgpt.com/c/69011155-6ffc-8321-8406-c85a0a14b0a8
+
+Week 7
+11/02/2025
+This week I used AI to test my code and help with creating examples to make sure that my code runs accurately. I also like for AI to explain the difference of the errors that we handle. https://chatgpt.com/c/690800bc-30a8-8332-9a8a-d18937994df8
