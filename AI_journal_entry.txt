@@ -30,3 +30,7 @@ This week I used AI to further explain how to set an objects initial state with 
 Week 7
 11/02/2025
 This week I used AI to test my code and help with creating examples to make sure that my code runs accurately. I also like for AI to explain the difference of the errors that we handle. https://chatgpt.com/c/690800bc-30a8-8332-9a8a-d18937994df8
+
+Week 8
+11/10/2025
+This week I used AI to help me conduct execution examples to make sure that my code outputs the results needed. Sometimes I stuggle with executing the code in an example more than actually writing the code. https://chatgpt.com/c/691282fe-572c-8332-9feb-a28737c1280 4
